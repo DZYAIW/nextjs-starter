@@ -1,3 +1,1 @@
-git add .nvmrc
-git commit -m "Set Node version to 18 for Netlify builds"
-git push
+
